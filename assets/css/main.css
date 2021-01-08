@@ -4692,4 +4692,6 @@ input, select, textarea {
 	display: block;
 	margin: 2.5rem 0;
 	width: 100%;
+	max-width:"560";
+	max-height:"315";
 }
